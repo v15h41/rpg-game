@@ -1,0 +1,4 @@
+965	3563	amulet.png
+4791	1253	sword.png
+546	6707	tome.png
+1976	402	elixir.png

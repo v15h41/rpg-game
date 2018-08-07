@@ -1,0 +1,9 @@
+0	0	100	26	600	player.png	Player
+1	1	1	0	0	prince.png	Prince Aldric
+2	1	1	0	0	shaman.png	Elvira
+3	1	1	0	0	peasant.png	Garth
+4	2	40	0	0	dreadbat.png	Giant Bat
+5	3	60	10	800	zombie.png	Zombie
+6	3	40	8	200	bandit.png	Bandit
+7	3	100	16	500	skeleton.png	Skeleton
+8	3	140	30	400	necromancer.png	Draelic
